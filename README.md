@@ -11,5 +11,3 @@ Atualmente, estou aprendendo e desenvolvendo pequenos projetos para aprimorar mi
 
 > "Teste cedo, teste sempre – e nunca pare de aprender."
 
-Vamos nos conectar e crescer juntos 🚀
-
