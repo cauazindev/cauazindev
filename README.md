@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**cauazindev/cauazindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Olá!
 
-Here are some ideas to get you started:
+Sou **Cauã Rodrigues**, aspirante a **Quality Assurance Tester** 🧪 e desenvolvedor iniciante em **Lua/Python** 💻. Com mais de **10 anos de experiência em MMORPGs** 🎮, sou apaixonado por sistemas de jogos, caça a bugs e criação de mecânicas envolventes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprendendo e desenvolvendo pequenos projetos para aprimorar minhas habilidades em:
+- Testes manuais e automatizados de QA  
+- Programação em Lua e Python  
+- Testes de UI/UX e balanceamento de gameplay
+
+📌 Também trabalho em estudos de caso pessoais de QA para jogos e aplicativos que gosto, focando em melhorar a qualidade por meio de testes estruturados.
+
+> "Teste cedo, teste sempre – e nunca pare de aprender."
+
+Vamos nos conectar e crescer juntos 🚀
+
