@@ -9,5 +9,5 @@ Atualmente, estou aprendendo e desenvolvendo pequenos projetos para aprimorar mi
 
 📌 Também trabalho em estudos de caso pessoais de QA para jogos e aplicativos que gosto, focando em melhorar a qualidade por meio de testes estruturados.
 
-> "Teste cedo, teste sempre – e nunca pare de aprender."
+> "Testing."
 
